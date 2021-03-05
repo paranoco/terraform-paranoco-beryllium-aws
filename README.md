@@ -1,0 +1,1 @@
+# terraform-paranoco-beryllium-aws
