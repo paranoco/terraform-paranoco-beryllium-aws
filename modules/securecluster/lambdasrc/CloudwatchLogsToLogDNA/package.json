@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "agentkeepalive": "^4.1.4",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "request": "^2.88.2",
     "zlib": "^1.0.5"
   }
